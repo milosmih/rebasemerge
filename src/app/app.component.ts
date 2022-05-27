@@ -9,4 +9,5 @@ export class AppComponent {
   title = 'test';
 
   test1 = 'test 1';
+  test2 = 'test 2';
 }
